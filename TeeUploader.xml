@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update>
         <version>1.0.0.1</version> 
-        <url>https://raw.githubusercontent.com/thongtintrungdoan24/TeeUpdater/master/MainGUI.exe</url> 
+        <url>https://raw.githubusercontent.com/thongtintrungdoan24/TeeUploader/master//MainGUI.exe</url> 
         <filePath>./MainGUI.exe</filePath>
         <md5>0C93462B7582590034CF1FCC3966CFB2</md5>
         <description>Chạy Thử nội dung cập nhật
