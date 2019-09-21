@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update>
-        <version>1.0.0.2</version> 
+        <version>1.0.0.3</version> 
         <url>https://raw.githubusercontent.com/thongtintrungdoan24/TeeUploader/master/MainGUI.exe</url>
         <filePath>./MainGUI.exe</filePath>
-        <md5>39E7B4E4481E16C28F2306FEAD7391D0</md5>
+        <md5>D1BACD4F375F86B197E81E7DCB7D4A9A</md5>
         <description>
             + Sửa lỗi không load được ảnh.
         </description> 
