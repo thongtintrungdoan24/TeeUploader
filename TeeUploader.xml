@@ -1,12 +1,11 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update>
-        <version>1.0.0.1</version> 
+        <version>1.0.0.2</version> 
         <url>https://raw.githubusercontent.com/thongtintrungdoan24/TeeUpdater/master/MainGUI.exe</url> 
         <filePath>./MainGUI.exe</filePath>
-        <md5>0C93462B7582590034CF1FCC3966CFB2</md5>
-        <description>Chạy Thử nội dung cập nhật
-            + Bản này giống hệt bản trước.
+        <md5>2E6D908A372EEDBF315E473A82E1CFCC</md5>
+        <description>Sửa lỗi không load được ảnh.
         </description> 
         <launchArgs></launchArgs> 
     </update>
