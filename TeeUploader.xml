@@ -1,23 +1,20 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update>
-        <version>1.0.0.4</version> 
+        <version>1.0.0.5</version> 
         <url>https://raw.githubusercontent.com/thongtintrungdoan24/TeeUploader/master/MainGUI.exe</url>
         <filePath>./MainGUI.exe</filePath>
-        <md5>7C46B2F5928222F54819AEDA2C5ACC55</md5>
+        <md5>238498F7C0E6002E1CC549489EB29422</md5>
         <description>
-            + Cập nhật tính năng chọn màu.
-            + Chọn nhiều mẫu áo.
-            + Giao diện thân thiện hơn.
-            + Quản lý được những file đã upload.
+            + Tạm thời chọn một mẫu áo theo chủng loại
         </description> 
         <launchArgs></launchArgs> 
     </update>
     <update>
-        <version>1.0.0.4</version> 
+        <version>1.0.0.5</version> 
         <url>https://raw.githubusercontent.com/thongtintrungdoan24/TeeUploader/master/SeleniumCustom.dll</url>
         <filePath>./SeleniumCustom.dll</filePath>
-        <md5>79C214ACD2265621C8665FDEC2959F77</md5>
+        <md5>557A3E84735728C2FC2F6C99BBA49AB3</md5>
         <description>
             + Sửa lỗi không load được ảnh.
         </description> 
